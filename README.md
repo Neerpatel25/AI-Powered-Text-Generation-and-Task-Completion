@@ -6,19 +6,23 @@ The project leverages AI text generation through OpenAI's API, completing tasks 
 The provided code employs the OpenAI API to generate text based on specific prompts across different tasks like creative writing, sentiment analysis, dialogue creation, poetry, and algorithmic problem-solving.
 
 # 2. Project Tasks and Methods
-## Task 1: Creative Writing - Scenario Envisioning
+Task 1: Creative Writing - Scenario Envisioning
 Utilization of OpenAI's GPT-3 model through the OpenAI API.
 Details of the prompt used and the parameters set for text generation.
-## Task 2: Text Classification - Sentiment Analysis
+
+Task 2: Text Classification - Sentiment Analysis
 Integration of sentiment analysis using Hugging Face's Transformers library.
 Description of the model used and how it classifies sentiment.
-## Task 3: Dialogue Creation - Language Model for Conversations
+
+Task 3: Dialogue Creation - Language Model for Conversations
 Implementation of dialogue generation using Hugging Face's DialoGPT.
 Examples of generated dialogues and the methodology applied.
-## Task 4: Creative Writing - Poetry Generation
+
+Task 4: Creative Writing - Poetry Generation
 Placeholder for incorporating a custom fine-tuned model for poetry generation.
 Explanation of potential model choices and their alignment with the task.
-## Task 5: Problem-Solving - Algorithm Implementation
+
+Task 5: Problem-Solving - Algorithm Implementation
 Integration of a recursive algorithm for generating the Fibonacci series.
 Code snippet and explanation of the algorithm used.
 
